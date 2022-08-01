@@ -33,16 +33,16 @@ export default function Footer() {
             About
           </Link>
           <Link to="/donors" className="text-link">
-            Donors
+            How to Donate
+          </Link>
+          <Link to="/medical-needs" className="text-link">
+            Medical Needs
           </Link>
           <Link to="/suppliers" className="text-link">
-            Hospital & Suppliers
+            Medical Suppliers
           </Link>
           <Link to="/news-room" className="text-link">
             Newsroom
-          </Link>
-          <Link to="/login" className="text-link">
-            Login
           </Link>
         </div>
       </div>
