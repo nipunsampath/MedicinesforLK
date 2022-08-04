@@ -18,5 +18,5 @@ export default {
     "https://9d2b57ae-4349-44f2-971c-106ae09d244d-prod.e1-us-east-azure.choreoapis.dev/qmov/donor-api/1.0.0",
     "https://9d2b57ae-4349-44f2-971c-106ae09d244d-dev.e1-us-east-azure.choreoapis.dev/qmov/donor-api/1.0.0",
   ],
-  disableTrySignInSilently: false,
+  disableTrySignInSilently: true,
 };
